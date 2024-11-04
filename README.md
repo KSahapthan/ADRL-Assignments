@@ -1,5 +1,5 @@
 # ADRL-Assignments
-Assignments for ADRL-2024 course at IISc,ECE Dept by Prof.Pratosh.A.P
+Assignments for ADRL-2024 course at IISc,ECE Dept 
 
 This folder contains the following implementations
 1) GAN [Wasserstein-GAN , Vanilla DC-GAN and Decoder+GAN]
